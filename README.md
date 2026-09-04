@@ -1,3 +1,9 @@
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=I+don't+just+use+AI.+I+build+with+it.;From+LeetCode+problems+to+real+systems.;Breaking+things.+Understanding+why.+Building+better.;Code+%E2%86%92+Models+%E2%86%92+Systems+%E2%86%92+Impact.)](https://git.io/typing-svg)
+
+
+
 # 💫 About Me:
 <br>I’m a **Final-Year Computer Science Engineering student** focused on building practical systems at the intersection of **AI, Machine Learning, and Full-Stack Development**.<br><br>My goal is to move beyond simply learning technologies and **turn them into working products** — from intelligent applications and ML models to AI agents that can solve real-world tasks.<br><br>Currently, I’m strengthening my skills in:<br><br>* 🤖 **AI/ML & Generative AI** — building intelligent, task-oriented applications<br>* 🧠 **LLMs & AI Agents** — exploring RAG, agentic workflows, NLP, and LLMs from scratch<br>* 💻 **Full-Stack Development** — creating complete, usable web applications<br>* 🛠️ **Problem Solving** — consistently improving my DSA and coding skills<br>* 🚀 **Research & Innovation** — developing projects that can evolve into real-world solutions<br><br>🎯 My Goal<br><br>**Build AI-powered products that are technically strong, practically useful, and ready to move beyond the classroom.**<br><br>I’m currently working toward becoming an **AI/ML Engineer with strong software development skills**, while continuing to build, experiment, publish, and learn through real projects.<br>
 
