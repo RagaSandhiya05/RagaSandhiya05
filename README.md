@@ -11,7 +11,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/raga-sandhiya-r-770a302a7/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-<a href="mailto:ragasandhiya05@fmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+<a href="mailto:ragasandhiya05@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
 <a href="https://leetcode.com/u/Raga_Sandhiya_R/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>&nbsp;
 <a href="https://www.hackerrank.com/profile/ragasandhiya05"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>&nbsp;
 <a href="https://github.com/RagaSandhiya05"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
